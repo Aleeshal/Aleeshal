@@ -89,7 +89,7 @@ Curious engineer exploring AI, cybersecurity, and modern software development.
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Aleeshal">Aleeshal</a></i></p>
-## Hi there 👋
+
 
 <!--
 **Aleeshal/Aleeshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
